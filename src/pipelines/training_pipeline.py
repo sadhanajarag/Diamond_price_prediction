@@ -22,3 +22,4 @@ if __name__=='__main__':
     model_trainer=ModelTrainer()
     model_trainer.initate_model_training(train_arr,test_arr)
 
+    
